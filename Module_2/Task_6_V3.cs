@@ -47,7 +47,7 @@ public class Employee
         Console.WriteLine();
 
         // Объект через конструктор по умолчанию
-        Employee e2 = new Employee();
+        Employee e2 = new Employee(); 
         e2.Name   = "Мария Сидорова";
         e2.Age    = 25;
         e2.Post   = "Дизайнер";
