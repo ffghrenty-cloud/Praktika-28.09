@@ -2,9 +2,7 @@ using System;
 
 namespace zd5
 {
-    /// <summary>
     /// Логика калькулятора, не зависящая от UI.
-    /// </summary>
     public class CalculatorLogic
     {
         private string input = string.Empty;       // Текущий ввод (число)
@@ -12,14 +10,10 @@ namespace zd5
         private double firstNumber = 0;            // Первое число
         private bool isNewOperation = false;       // Флаг: следующая цифра начинает новое число
 
-        /// <summary>
         /// Текст, который нужно отобразить на экране.
-        /// </summary>
         public string DisplayText { get; private set; } = string.Empty;
 
-        /// <summary>
         /// Добавить цифру (или точку) к текущему вводу.
-        /// </summary>
         public void AddDigit(string value)
         {
             if (isNewOperation)
@@ -33,9 +27,7 @@ namespace zd5
             DisplayText += value;
         }
 
-        /// <summary>
         /// Выбрать операцию (+, -, *, /).
-        /// </summary>
         public void SetOperation(string op)
         {
             if (double.TryParse(input, out firstNumber))
@@ -46,9 +38,7 @@ namespace zd5
             }
         }
 
-        /// <summary>
-        /// Вычислить результат. Возвращает текст ошибки или null, если всё ок.
-        /// </summary>
+        /// Вычислить результат. Возвращает текст ошибки или null
         public string Calculate()
         {
             if (!double.TryParse(input, out double secondNumber))
@@ -84,9 +74,7 @@ namespace zd5
             return null;
         }
 
-        /// <summary>
         /// Сбросить состояние калькулятора.
-        /// </summary>
         public void Clear()
         {
             input = string.Empty;
