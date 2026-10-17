@@ -39,4 +39,12 @@ namespace Tasks
             Console.WriteLine($"Сумма элементов: {sum} (≤ {s})");
         }
     }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Task2.Run();
+        }
+    }
 }

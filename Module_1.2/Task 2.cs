@@ -33,4 +33,12 @@ namespace Tasks
             Console.WriteLine(string.Join(" ", arr));
         }
     }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Task2.Run();
+        }
+    }
 }

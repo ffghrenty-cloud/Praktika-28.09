@@ -48,4 +48,12 @@ namespace Tasks
             Console.WriteLine();
         }
     }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Task4.Run();
+        }
+    }
 }

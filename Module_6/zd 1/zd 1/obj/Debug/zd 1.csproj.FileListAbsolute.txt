@@ -1,0 +1,20 @@
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\App.baml
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\App.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.g.resources
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd_1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\AddBookWindow.baml
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\AddBookWindow.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\bin\Debug\zd 1.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\bin\Debug\zd 1.exe
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\bin\Debug\zd 1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.csproj.Up2Date
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.exe
+C:\Users\Lenovo\OneDrive\Desktop\module 6\zd 1\zd 1\obj\Debug\zd 1.pdb

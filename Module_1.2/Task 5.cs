@@ -45,4 +45,12 @@ namespace Tasks
             Console.WriteLine($"\nКоличество согласных: {consonantArr.Length} из {k}");
         }
     }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Task5.Run();
+        }
+    }
 }
